@@ -1,8 +1,11 @@
+// Run node minesweeper.js to run this code.
 // Hardcode 3 blank columns to represent empty lots
 const blankLine = '  |   |  ';
 console.log("This is what an empty board would look like:");
 // Log the blankLine in 3 rows
 console.log(`${blankLine} \n${blankLine} \n${blankLine}`);
+
+
 // Hardcode a guessline
 const guessLine = '1 |   |  ';
 // harcode a bombline
